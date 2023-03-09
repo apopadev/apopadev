@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **courses on stepik.org**
 
-- 📫 How to reach me **a.popadev@ya.ru**
+- 📫 How to reach me **a.popadev@ya.ru**, **<a href="https://t.me/morlotus/" target="_blank" rel="noreferrer">telegram </a>**
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
